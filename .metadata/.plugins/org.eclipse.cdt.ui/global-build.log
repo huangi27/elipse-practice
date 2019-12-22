@@ -1,0 +1,16 @@
+Info: Nothing to build for Pointer-宣告和存取
+16:14:25 **** Incremental Build of configuration Debug for project Pointer-宣告和存取 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\main.o" "..\\src\\main.cpp" 
+g++ -o Pointer-宣告和存取 "src\\main.o" 
+Info: Nothing to build for gogo
+16:14:45 **** Incremental Build of configuration Debug for project Pointer-宣告和存取 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\main.o" "..\\src\\main.cpp" 
+g++ -o Pointer-宣告和存取 "src\\main.o" 
+Info: Nothing to build for Pointer-宣告和存取
+16:15:10 **** Incremental Build of configuration Debug for project whyIsWrong ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\main.o" "..\\src\\main.cpp" 
+g++ -o whyIsWrong "src\\main.o" 
+Info: Nothing to build for whyIsWrong

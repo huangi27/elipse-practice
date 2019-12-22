@@ -1,0 +1,7 @@
+19:58:15 **** Incremental Build of configuration Debug for project again ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\again.o" "..\\src\\again.cpp" 
+g++ -o again "src\\again.o" 
+
+19:58:15 Build Finished. 0 errors, 0 warnings. (took 514ms)
+

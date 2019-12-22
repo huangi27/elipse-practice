@@ -1,0 +1,16 @@
+/*
+ * main.cpp
+ *
+ *  Created on: 2019¦~11¤ë28¤é
+ *      Author: eehua
+ */
+
+#include<iostream>
+using namespace std;
+int main(){
+	int a;
+	a = 100;
+	cout<<a<<endl;
+}
+
+
