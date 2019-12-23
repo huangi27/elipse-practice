@@ -1,7 +1,7 @@
 /*
  * main.cpp
  *
- *  Created on: 2019¦~11¤ë27¤é
+ *  Created on: 2019å¹´11æœˆ27æ—¥
  *      Author: eehua
  */
 
@@ -10,11 +10,11 @@ using namespace std;
 
 int main(){
 	int a;
-	a = 8;
+	a = 8
 	cout<<a<<endl;
 
-	int * p;//«Å§i¤F¤@­Ó«ü¼Ð ¥s°µp
-	p = &a;//pµ¥©óaªº°O¾ÐÅé¦ì¸m
+	int * p;//å®£å‘Šäº†ä¸€å€‹æŒ‡æ¨™ å«åšp
+	p = &a;//pç­‰æ–¼açš„è¨˜æ†¶é«”ä½ç½®
 	cout<<p<<endl;
 	cout<<*p<<endl;
     *p = 20;
